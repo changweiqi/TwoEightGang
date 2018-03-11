@@ -1,0 +1,20 @@
+{
+  "global": {
+    "globalAutoLayerMarkEnable": true
+  },
+  "1620db70dce": {
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1
+  },
+  "1620db70dcf": {
+    "useBgImage": true,
+    "useBgColor": true,
+    "backgroundAlpha": 100,
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1
+  }
+}

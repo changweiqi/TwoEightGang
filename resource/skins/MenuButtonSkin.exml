@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="MenuButtonSkin"
+        states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image x="0" y="0" source="btn_shrink_bg_png"/>
+	<e:Image y="16" x="59" includeIn="upAndSelected,downAndSelected,disabledAndSelected" scaleX="-1" source="btn_shrink_png"/>
+	<e:Image includeIn="up,down,disabled" x="19" y="16" source="btn_shrink_png"/>
+</e:Skin>

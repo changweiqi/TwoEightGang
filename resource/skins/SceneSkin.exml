@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SceneSkin" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="1620db70dcf"/>
+
+    <e:Image fillMode="scale" left="1" right="-1" y="0" source="bkg_jpg" height="800" locked="true"/>
+	<e:Group x="21" y="212" locked="true">
+		<e:Image id="menuBtn" source="btn_shrink_bg_png" x="-18" y="-6"/>
+		<e:Image source="btn_shrink_png" x="1.5" y="9" touchEnabled="false"/>
+	</e:Group>
+	<e:Group id="menu" width="386" height="115" y="200" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="46" visible="false">
+		<e:Image source="btn_activity_png" x="39" y="8.5"/>
+		<e:Image source="btn_mail_png" x="158" y="11"/>
+		<e:Image source="btn_mission_png" x="304" y="10"/>
+		<e:layout>
+			<e:HorizontalLayout/>
+		</e:layout>
+	</e:Group>
+</e:Skin>
